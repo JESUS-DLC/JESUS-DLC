@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, Soy JesusDLC </h1> 
+<h2 align="center">Ingeniero en Sistemas Computacionales</h2>
 
-<!--
-**JESUS-DLC/JESUS-DLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ <img align="center" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Tecnologías que manejo👨🏻‍💻</h3>
+
+<!--tech stack icons-->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,ts,angular,postgresql,mysql,redis,git,github,postman,md,linux,vscode,idea&perline=9" />
+  </a>
+</div>
+
+<h3 align="center">Contactame🤝</h2>
+<div align="center">
+<a target="_blank" href="https://www.linkedin.com/in/jesusdlcode">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=9" />
+  </a>
+</a>
+</div>
