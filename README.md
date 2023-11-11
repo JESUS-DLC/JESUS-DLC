@@ -10,8 +10,8 @@
 
 <!--tech stack icons-->
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,ts,angular,postgresql,mysql,redis,git,github,postman,md,linux,vscode,idea&perline=9" />
+  <a target="_blank" href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,html,css,js,ts,angular,postgresql,mysql,redis,git,github,postman,md,linux,vscode,idea&perline=10" />
   </a>
 </div>
 
